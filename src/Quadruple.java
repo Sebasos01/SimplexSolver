@@ -1,0 +1,1 @@
+public record Quadruple<T, U, X, Y>(T first, U second, X third, Y fourth) {}
